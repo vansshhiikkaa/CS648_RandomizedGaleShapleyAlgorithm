@@ -1,1 +1,2 @@
-# Randomized-Gale-Shapley-Algorithm
+## Randomized-Gale-Shapley-Algorithm
+### for stable marriage problem
